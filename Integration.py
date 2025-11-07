@@ -6,7 +6,7 @@ import sqlite3
 # basic GUI 
 root = tk.Tk()
 root.title('INTEGRATION')
-root.geometry('300x400')  # 調整視窗大小
+root.geometry('300x300')  # 調整視窗大小
 
 # student ID label and entry
 label_id = tk.Label(root, text='Student ID')
